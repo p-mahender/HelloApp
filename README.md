@@ -12,4 +12,5 @@ To build the image, open a terminal in the code directory
 To start a container
 ```
 /helloapp> docker run -it -p 8080:8080 helloapp
+1st commit
 ```
